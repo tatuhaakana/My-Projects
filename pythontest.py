@@ -9,3 +9,8 @@ while True:
     print(num)
   else:
     break
+j = 0
+for i in range(0, 6):
+  j += 1
+  
+print(j)
